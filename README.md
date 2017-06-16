@@ -1,5 +1,11 @@
 This is a fork of the following app with the minSdkVersion kept at 16 so it will run on my Samsung Galaxy Fame
 
+Since I've built a Samsung Galaxy Fame specific version, I am also using my external SD card to store MAPs.  To use
+
+- Install map secondary app to add data to internal memory.  One day I might figure out how to get the data without doing this.
+- Copy the files from /storage/sdcard0/Android/obb to /storage/extSdCard/Android/obb
+- Remove the map secondary app
+
 # Cyclestreets Android App
 
 ## What is it?
