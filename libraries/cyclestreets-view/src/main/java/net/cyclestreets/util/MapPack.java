@@ -27,8 +27,9 @@ public class MapPack
   static public List<MapPack> availableMapPacks()
   {
     final List<MapPack> packs = new ArrayList<>();
-    
-    final File obbDir = new File(Environment.getExternalStorageDirectory(), "Android/obb");
+
+    //final File obbDir = new File(Environment.getExternalStorageDirectory(), "Android/obb");
+    final File obbDir = new File("/storage/extSdCard", "Android/obb");
     if(!obbDir.exists())
       return packs;
     
