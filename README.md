@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cyclestreets/android.svg?branch=master)](https://travis-ci.org/cyclestreets/android)
+This is a fork of the following app with the minSdkVersion kept at 16 so it will run on my Samsung Galaxy Fame
 
 # Cyclestreets Android App
 
